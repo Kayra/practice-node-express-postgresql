@@ -7,3 +7,7 @@ This is the code written while following a tutorial for using Sequalize with Nod
 ## Mac installation instructions
 
 ## Running the local development server
+
+```bash
+npm run start:dev
+```
