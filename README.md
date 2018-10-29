@@ -11,3 +11,5 @@ This is the code written while following a tutorial for using Sequalize with Nod
 ```bash
 npm run start:dev
 ```
+
+[http://localhost:8000](http://localhost:8000)
