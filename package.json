@@ -4,7 +4,7 @@
   "description": "This is the code written while following a tutorial for using Sequalize with Node and Express. Thank you to [jmuturi](https://scotch.io/@jmuturi) for provding the [tutorial](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize).",
   "main": "index.js",
   "scripts": {
-    "start:dev": "nodemon ./bin/www"
+    "start:dev": "nodemon ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
