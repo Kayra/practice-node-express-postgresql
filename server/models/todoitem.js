@@ -9,3 +9,5 @@ module.exports = (sequelize, DataTypes) => {
   };
   return TodoItem;
 };
+
+// Generated with: sequelize model:create --name TodoItem --attributes content:string,complete:boolean
