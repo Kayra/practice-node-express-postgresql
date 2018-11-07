@@ -4,9 +4,27 @@ This is the code written while following a tutorial for using Sequalize with Nod
 
 ## Set up
 
-## Mac installation instructions
+### Mac installation instructions
 
-## Running the local development server
+```bash
+# Install homebrew
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew update
+
+# Install psql
+brew install postgresql
+
+# Start psql
+brew services start postgresql
+
+# Install npm dependencies
+npm i
+
+# Create local development database
+createdb todos-dev
+```
+
+### Running the local development server
 
 ```bash
 npm run start:dev
