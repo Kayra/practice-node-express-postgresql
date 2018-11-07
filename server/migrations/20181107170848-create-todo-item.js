@@ -40,3 +40,5 @@ module.exports = {
     queryInterface.dropTable('TodoItems')
 
 };
+
+// Initially generated with: sequelize model:create --name TodoItem --attributes content:string,complete:boolean

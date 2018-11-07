@@ -19,4 +19,4 @@ module.exports = (sequelize, DataTypes) => {
 
 };
 
-// Generated with: sequelize model:create --name Todo --attributes title:string
+// Initially generated with: sequelize model:create --name Todo --attributes title:string

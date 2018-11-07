@@ -23,4 +23,4 @@ module.exports = (sequelize, DataTypes) => {
 
 };
 
-// Generated with: sequelize model:create --name TodoItem --attributes content:string,complete:boolean
+// Initially generated with: sequelize model:create --name TodoItem --attributes content:string,complete:boolean
