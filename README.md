@@ -17,11 +17,12 @@ brew install postgresql
 # Start psql
 brew services start postgresql
 
+# Create local development database
+createdb todos-dev
+
 # Install npm dependencies
 npm i
 
-# Create local development database
-createdb todos-dev
 ```
 
 ### Running the local development server
